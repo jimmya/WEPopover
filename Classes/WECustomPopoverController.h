@@ -5,6 +5,7 @@
 
 #import <Foundation/Foundation.h>
 #import "WEPopoverController.h"
+#import "WEPopoverContainerViewProperties.h"
 
 @interface WECustomPopoverController : WEPopoverController
 @end

@@ -6,6 +6,7 @@
 //  Copyright © 2016 Werner IT Consultancy. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 
 @interface WEColorUtils : NSObject
