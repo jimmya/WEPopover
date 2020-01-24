@@ -3,8 +3,8 @@
 // Copyright (c) 2016 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WECustomPopoverController.h"
-#import "WEColorUtils.h"
+#import <WEPopover/WECustomPopoverController.h>
+#import <WEPopover/WEColorUtils.h>
 
 @implementation WECustomPopoverController {
 

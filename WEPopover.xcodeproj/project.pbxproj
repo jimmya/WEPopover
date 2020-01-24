@@ -7,39 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BFB1724A23DACF1A00CD8D42 /* WEPopoverTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1720D23DACF1900CD8D42 /* WEPopoverTableViewController.h */; };
-		BFB1724B23DACF1A00CD8D42 /* WEColorUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1720E23DACF1900CD8D42 /* WEColorUtils.h */; };
-		BFB1724C23DACF1A00CD8D42 /* WECustomPopoverController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1720F23DACF1900CD8D42 /* WECustomPopoverController.h */; };
+		BFB1724A23DACF1A00CD8D42 /* WEPopoverTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1720D23DACF1900CD8D42 /* WEPopoverTableViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1724B23DACF1A00CD8D42 /* WEColorUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1720E23DACF1900CD8D42 /* WEColorUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1724C23DACF1A00CD8D42 /* WECustomPopoverController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1720F23DACF1900CD8D42 /* WECustomPopoverController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BFB1724D23DACF1A00CD8D42 /* WEPopoverAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1721023DACF1900CD8D42 /* WEPopoverAppDelegate.m */; };
 		BFB1724E23DACF1A00CD8D42 /* WEPopoverViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1721123DACF1900CD8D42 /* WEPopoverViewController.m */; };
-		BFB1724F23DACF1A00CD8D42 /* WEPopoverContentViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721223DACF1900CD8D42 /* WEPopoverContentViewController.h */; };
-		BFB1725023DACF1A00CD8D42 /* WEPopoverController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721423DACF1900CD8D42 /* WEPopoverController.h */; };
-		BFB1725123DACF1A00CD8D42 /* WEBlockingGestureRecognizer.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721523DACF1900CD8D42 /* WEBlockingGestureRecognizer.h */; };
-		BFB1725223DACF1A00CD8D42 /* UIBarButtonItem+WEPopover.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721623DACF1900CD8D42 /* UIBarButtonItem+WEPopover.h */; };
-		BFB1725323DACF1A00CD8D42 /* UIView+WEPopover.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721723DACF1900CD8D42 /* UIView+WEPopover.h */; };
-		BFB1725423DACF1A00CD8D42 /* WEPopoverContainerView.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721823DACF1900CD8D42 /* WEPopoverContainerView.h */; };
+		BFB1724F23DACF1A00CD8D42 /* WEPopoverContentViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721223DACF1900CD8D42 /* WEPopoverContentViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1725023DACF1A00CD8D42 /* WEPopoverController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721423DACF1900CD8D42 /* WEPopoverController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1725123DACF1A00CD8D42 /* WEBlockingGestureRecognizer.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721523DACF1900CD8D42 /* WEBlockingGestureRecognizer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1725223DACF1A00CD8D42 /* UIBarButtonItem+WEPopover.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721623DACF1900CD8D42 /* UIBarButtonItem+WEPopover.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1725323DACF1A00CD8D42 /* UIView+WEPopover.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721723DACF1900CD8D42 /* UIView+WEPopover.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1725423DACF1A00CD8D42 /* WEPopoverContainerView.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721823DACF1900CD8D42 /* WEPopoverContainerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BFB1725523DACF1A00CD8D42 /* WETouchableView.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1721923DACF1900CD8D42 /* WETouchableView.m */; };
-		BFB1725623DACF1A00CD8D42 /* NSCondition+WEPopover.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721A23DACF1900CD8D42 /* NSCondition+WEPopover.h */; };
-		BFB1725723DACF1A00CD8D42 /* WEWeakReference.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721B23DACF1900CD8D42 /* WEWeakReference.h */; };
+		BFB1725623DACF1A00CD8D42 /* NSCondition+WEPopover.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721A23DACF1900CD8D42 /* NSCondition+WEPopover.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1725723DACF1A00CD8D42 /* WEWeakReference.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721B23DACF1900CD8D42 /* WEWeakReference.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BFB1725823DACF1A00CD8D42 /* WEPopoverContainerViewProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1721C23DACF1900CD8D42 /* WEPopoverContainerViewProperties.m */; };
 		BFB1725923DACF1A00CD8D42 /* WEBlockingGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1721D23DACF1900CD8D42 /* WEBlockingGestureRecognizer.m */; };
 		BFB1725A23DACF1A00CD8D42 /* WEPopoverController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1721E23DACF1900CD8D42 /* WEPopoverController.m */; };
-		BFB1725B23DACF1A00CD8D42 /* WETouchableView.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721F23DACF1900CD8D42 /* WETouchableView.h */; };
+		BFB1725B23DACF1A00CD8D42 /* WETouchableView.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1721F23DACF1900CD8D42 /* WETouchableView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BFB1725C23DACF1A00CD8D42 /* WEPopoverContainerView.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1722023DACF1900CD8D42 /* WEPopoverContainerView.m */; };
 		BFB1725D23DACF1A00CD8D42 /* UIView+WEPopover.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1722123DACF1900CD8D42 /* UIView+WEPopover.m */; };
 		BFB1725E23DACF1A00CD8D42 /* UIBarButtonItem+WEPopover.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1722223DACF1900CD8D42 /* UIBarButtonItem+WEPopover.m */; };
-		BFB1725F23DACF1A00CD8D42 /* WEPopoverParentView.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722323DACF1900CD8D42 /* WEPopoverParentView.h */; };
-		BFB1726023DACF1A00CD8D42 /* WEPopoverContainerViewProperties.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722423DACF1900CD8D42 /* WEPopoverContainerViewProperties.h */; };
+		BFB1725F23DACF1A00CD8D42 /* WEPopoverParentView.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722323DACF1900CD8D42 /* WEPopoverParentView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1726023DACF1A00CD8D42 /* WEPopoverContainerViewProperties.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722423DACF1900CD8D42 /* WEPopoverContainerViewProperties.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BFB1726123DACF1A00CD8D42 /* NSCondition+WEPopover.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1722523DACF1900CD8D42 /* NSCondition+WEPopover.m */; };
 		BFB1726223DACF1A00CD8D42 /* WEWeakReference.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1722623DACF1900CD8D42 /* WEWeakReference.m */; };
 		BFB1726323DACF1A00CD8D42 /* WECustomPopoverController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1722723DACF1900CD8D42 /* WECustomPopoverController.m */; };
 		BFB1726423DACF1A00CD8D42 /* WEColorUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1722823DACF1900CD8D42 /* WEColorUtils.m */; };
 		BFB1726523DACF1A00CD8D42 /* WEPopoverTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1722923DACF1900CD8D42 /* WEPopoverTableViewController.m */; };
-		BFB1726623DACF1A00CD8D42 /* WEPopover.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722A23DACF1900CD8D42 /* WEPopover.h */; };
-		BFB1726723DACF1A00CD8D42 /* WEPopoverAppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722B23DACF1900CD8D42 /* WEPopoverAppDelegate.h */; };
-		BFB1726823DACF1A00CD8D42 /* WEPopoverViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722C23DACF1900CD8D42 /* WEPopoverViewController.h */; };
+		BFB1726623DACF1A00CD8D42 /* WEPopover.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722A23DACF1900CD8D42 /* WEPopover.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1726723DACF1A00CD8D42 /* WEPopoverAppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722B23DACF1900CD8D42 /* WEPopoverAppDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFB1726823DACF1A00CD8D42 /* WEPopoverViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722C23DACF1900CD8D42 /* WEPopoverViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BFB1726923DACF1A00CD8D42 /* WEPopoverContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFB1722D23DACF1900CD8D42 /* WEPopoverContentViewController.m */; };
-		BFB1726A23DACF1A00CD8D42 /* WEPopover_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722E23DACF1900CD8D42 /* WEPopover_Prefix.pch */; };
+		BFB1726A23DACF1A00CD8D42 /* WEPopover_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = BFB1722E23DACF1900CD8D42 /* WEPopover_Prefix.pch */; settings = {ATTRIBUTES = (Public, ); }; };
 		BFB1726B23DACF1A00CD8D42 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFB1723023DACF1A00CD8D42 /* MainWindow.xib */; };
 		BFB1726C23DACF1A00CD8D42 /* popoverArrowUp.png in Resources */ = {isa = PBXBuildFile; fileRef = BFB1723223DACF1A00CD8D42 /* popoverArrowUp.png */; };
 		BFB1726D23DACF1A00CD8D42 /* popoverArrowUpSimple.png in Resources */ = {isa = PBXBuildFile; fileRef = BFB1723323DACF1A00CD8D42 /* popoverArrowUpSimple.png */; };
@@ -159,20 +159,20 @@
 		BFB1720C23DACF1900CD8D42 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				BFB1720D23DACF1900CD8D42 /* WEPopoverTableViewController.h */,
-				BFB1720E23DACF1900CD8D42 /* WEColorUtils.h */,
-				BFB1720F23DACF1900CD8D42 /* WECustomPopoverController.h */,
-				BFB1721023DACF1900CD8D42 /* WEPopoverAppDelegate.m */,
-				BFB1721123DACF1900CD8D42 /* WEPopoverViewController.m */,
-				BFB1721223DACF1900CD8D42 /* WEPopoverContentViewController.h */,
 				BFB1721323DACF1900CD8D42 /* Popover */,
-				BFB1722723DACF1900CD8D42 /* WECustomPopoverController.m */,
+				BFB1720E23DACF1900CD8D42 /* WEColorUtils.h */,
 				BFB1722823DACF1900CD8D42 /* WEColorUtils.m */,
-				BFB1722923DACF1900CD8D42 /* WEPopoverTableViewController.m */,
+				BFB1720F23DACF1900CD8D42 /* WECustomPopoverController.h */,
+				BFB1722723DACF1900CD8D42 /* WECustomPopoverController.m */,
 				BFB1722A23DACF1900CD8D42 /* WEPopover.h */,
 				BFB1722B23DACF1900CD8D42 /* WEPopoverAppDelegate.h */,
-				BFB1722C23DACF1900CD8D42 /* WEPopoverViewController.h */,
+				BFB1721023DACF1900CD8D42 /* WEPopoverAppDelegate.m */,
+				BFB1721223DACF1900CD8D42 /* WEPopoverContentViewController.h */,
 				BFB1722D23DACF1900CD8D42 /* WEPopoverContentViewController.m */,
+				BFB1720D23DACF1900CD8D42 /* WEPopoverTableViewController.h */,
+				BFB1722923DACF1900CD8D42 /* WEPopoverTableViewController.m */,
+				BFB1722C23DACF1900CD8D42 /* WEPopoverViewController.h */,
+				BFB1721123DACF1900CD8D42 /* WEPopoverViewController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -180,24 +180,24 @@
 		BFB1721323DACF1900CD8D42 /* Popover */ = {
 			isa = PBXGroup;
 			children = (
-				BFB1721423DACF1900CD8D42 /* WEPopoverController.h */,
-				BFB1721523DACF1900CD8D42 /* WEBlockingGestureRecognizer.h */,
-				BFB1721623DACF1900CD8D42 /* UIBarButtonItem+WEPopover.h */,
-				BFB1721723DACF1900CD8D42 /* UIView+WEPopover.h */,
-				BFB1721823DACF1900CD8D42 /* WEPopoverContainerView.h */,
-				BFB1721923DACF1900CD8D42 /* WETouchableView.m */,
 				BFB1721A23DACF1900CD8D42 /* NSCondition+WEPopover.h */,
-				BFB1721B23DACF1900CD8D42 /* WEWeakReference.h */,
-				BFB1721C23DACF1900CD8D42 /* WEPopoverContainerViewProperties.m */,
-				BFB1721D23DACF1900CD8D42 /* WEBlockingGestureRecognizer.m */,
-				BFB1721E23DACF1900CD8D42 /* WEPopoverController.m */,
-				BFB1721F23DACF1900CD8D42 /* WETouchableView.h */,
-				BFB1722023DACF1900CD8D42 /* WEPopoverContainerView.m */,
-				BFB1722123DACF1900CD8D42 /* UIView+WEPopover.m */,
-				BFB1722223DACF1900CD8D42 /* UIBarButtonItem+WEPopover.m */,
-				BFB1722323DACF1900CD8D42 /* WEPopoverParentView.h */,
-				BFB1722423DACF1900CD8D42 /* WEPopoverContainerViewProperties.h */,
 				BFB1722523DACF1900CD8D42 /* NSCondition+WEPopover.m */,
+				BFB1721623DACF1900CD8D42 /* UIBarButtonItem+WEPopover.h */,
+				BFB1722223DACF1900CD8D42 /* UIBarButtonItem+WEPopover.m */,
+				BFB1721723DACF1900CD8D42 /* UIView+WEPopover.h */,
+				BFB1722123DACF1900CD8D42 /* UIView+WEPopover.m */,
+				BFB1721523DACF1900CD8D42 /* WEBlockingGestureRecognizer.h */,
+				BFB1721D23DACF1900CD8D42 /* WEBlockingGestureRecognizer.m */,
+				BFB1721823DACF1900CD8D42 /* WEPopoverContainerView.h */,
+				BFB1722023DACF1900CD8D42 /* WEPopoverContainerView.m */,
+				BFB1722423DACF1900CD8D42 /* WEPopoverContainerViewProperties.h */,
+				BFB1721C23DACF1900CD8D42 /* WEPopoverContainerViewProperties.m */,
+				BFB1721423DACF1900CD8D42 /* WEPopoverController.h */,
+				BFB1721E23DACF1900CD8D42 /* WEPopoverController.m */,
+				BFB1722323DACF1900CD8D42 /* WEPopoverParentView.h */,
+				BFB1721F23DACF1900CD8D42 /* WETouchableView.h */,
+				BFB1721923DACF1900CD8D42 /* WETouchableView.m */,
+				BFB1721B23DACF1900CD8D42 /* WEWeakReference.h */,
 				BFB1722623DACF1900CD8D42 /* WEWeakReference.m */,
 			);
 			path = Popover;

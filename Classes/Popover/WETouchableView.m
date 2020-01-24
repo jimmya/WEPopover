@@ -6,8 +6,8 @@
 //  Copyright 2010 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WETouchableView.h"
-#import "WEBlockingGestureRecognizer.h"
+#import <WEPopover/WETouchableView.h>
+#import <WEPopover/WEBlockingGestureRecognizer.h>
 
 @interface WETouchableView()
 

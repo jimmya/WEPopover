@@ -6,11 +6,11 @@
 //  Copyright 2011 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WEPopoverTableViewController.h"
-#import "WEPopoverContentViewController.h"
-#import "WEPopoverViewController.h"
-#import "WECustomPopoverController.h"
-#import "UIBarButtonItem+WEPopover.h"
+#import <WEPopover/WEPopoverTableViewController.h>
+#import <WEPopover/WEPopoverContentViewController.h>
+#import <WEPopover/WEPopoverViewController.h>
+#import <WEPopover/WECustomPopoverController.h>
+#import <WEPopover/UIBarButtonItem+WEPopover.h>
 
 @implementation WEPopoverTableViewController
 

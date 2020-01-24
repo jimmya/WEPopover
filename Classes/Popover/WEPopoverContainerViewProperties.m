@@ -6,7 +6,7 @@
 //  Copyright © 2015 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WEPopoverContainerViewProperties.h"
+#import <WEPopover/WEPopoverContainerViewProperties.h>
 
 @implementation WEPopoverContainerViewProperties {
     

@@ -7,13 +7,13 @@
 //
 
 #import <objc/runtime.h>
-#import "WEPopoverController.h"
-#import "WEPopoverParentView.h"
-#import "UIBarButtonItem+WEPopover.h"
-#import "WEPopoverContainerView.h"
-#import "WEWeakReference.h"
-#import "UIView+WEPopover.h"
-#import "NSCondition+WEPopover.h"
+#import <WEPopover/WEPopoverController.h>
+#import <WEPopover/WEPopoverParentView.h>
+#import <WEPopover/UIBarButtonItem+WEPopover.h>
+#import <WEPopover/WEPopoverContainerView.h>
+#import <WEPopover/WEWeakReference.h>
+#import <WEPopover/UIView+WEPopover.h>
+#import <WEPopover/NSCondition+WEPopover.h>
 
 static const NSTimeInterval kDefaultPrimaryAnimationDuration = 0.3;
 static const NSTimeInterval kDefaultSecundaryAnimationDuration = 0.15;

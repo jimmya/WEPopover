@@ -6,7 +6,7 @@
 //  Copyright © 2016 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WEColorUtils.h"
+#import <WEPopover/WEColorUtils.h>
 
 @implementation WEColorUtils
 

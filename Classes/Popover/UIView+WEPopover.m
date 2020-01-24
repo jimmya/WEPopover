@@ -3,7 +3,7 @@
 // Copyright (c) 2016 Werner IT Consultancy. All rights reserved.
 //
 
-#import "UIView+WEPopover.h"
+#import <WEPopover/UIView+WEPopover.h>
 #import <objc/runtime.h>
 
 @implementation UIView (WEPopover)

@@ -6,7 +6,7 @@
 //  Copyright 2010 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WEPopoverContainerView.h"
+#import <WEPopover/WEPopoverContainerView.h>
 #import <QuartzCore/QuartzCore.h>
 
 @interface WEPopoverContainerView()

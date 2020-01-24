@@ -7,8 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "WEPopoverController.h"
-#import "WECustomPopoverController.h"
+#import <WEPopover/WEPopoverController.h>
+#import <WEPopover/WECustomPopoverController.h>
 
 @interface WEPopoverTableViewController : UITableViewController<WEPopoverControllerDelegate, UIPopoverControllerDelegate> {
 	WEPopoverController *popoverController;

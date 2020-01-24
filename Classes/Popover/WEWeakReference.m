@@ -6,7 +6,7 @@
 //  Copyright © 2016 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WEWeakReference.h"
+#import <WEPopover/WEWeakReference.h>
 
 @implementation WEWeakReference
 

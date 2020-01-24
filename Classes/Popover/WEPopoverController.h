@@ -8,9 +8,9 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "WEPopoverContainerViewProperties.h"
-#import "WETouchableView.h"
-#import "WEPopoverContainerView.h"
+#import <WEPopover/WEPopoverContainerViewProperties.h>
+#import <WEPopover/WETouchableView.h>
+#import <WEPopover/WEPopoverContainerView.h>
 
 /**
  Notifications for showing/dismissing.

@@ -7,7 +7,7 @@
  *
  */
 
-#import "UIBarButtonItem+WEPopover.h" 
+#import <WEPopover/UIBarButtonItem+WEPopover.h>
 
 @implementation UIBarButtonItem(WEPopover)
 

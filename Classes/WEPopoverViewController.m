@@ -6,9 +6,9 @@
 //  Copyright 2010 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WEPopoverViewController.h"
-#import "WEPopoverController.h"
-#import "WEPopoverContentViewController.h"
+#import <WEPopover/WEPopoverViewController.h>
+#import <WEPopover/WEPopoverController.h>
+#import <WEPopover/WEPopoverContentViewController.h>
 
 @interface WEPopoverViewController()<WEPopoverControllerDelegate>
 

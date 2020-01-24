@@ -3,7 +3,7 @@
 // Copyright (c) 2017 Werner IT Consultancy. All rights reserved.
 //
 
-#import "NSCondition+WEPopover.h"
+#import <WEPopover/NSCondition+WEPopover.h>
 
 @implementation NSCondition (WEPopover)
 

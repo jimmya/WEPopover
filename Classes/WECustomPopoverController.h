@@ -4,8 +4,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "WEPopoverController.h"
-#import "WEPopoverContainerViewProperties.h"
+#import <WEPopover/WEPopoverController.h>
+#import <WEPopover/WEPopoverContainerViewProperties.h>
 
 @interface WECustomPopoverController : WEPopoverController
 @end

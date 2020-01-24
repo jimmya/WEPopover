@@ -16,4 +16,9 @@ FOUNDATION_EXPORT const unsigned char WEPopoverVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <WEPopover/PublicHeader.h>
 
-
+#import <WEPopover/WEColorUtils.h>
+#import <WEPopover/WECustomPopoverController.h>
+#import <WEPopover/WEPopoverAppDelegate.h>
+#import <WEPopover/WEPopoverContentViewController.h>
+#import <WEPopover/WEPopoverTableViewController.h>
+#import <WEPopover/WEPopoverViewController.h>

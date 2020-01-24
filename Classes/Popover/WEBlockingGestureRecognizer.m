@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WEBlockingGestureRecognizer.h"
+#import <WEPopover/WEBlockingGestureRecognizer.h>
 #import <UIKit/UIGestureRecognizerSubclass.h>
 
 @implementation WEBlockingGestureRecognizer {

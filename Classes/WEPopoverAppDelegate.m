@@ -6,8 +6,8 @@
 //  Copyright 2010 Werner IT Consultancy. All rights reserved.
 //
 
-#import "WEPopoverAppDelegate.h"
-#import "WEPopoverViewController.h"
+#import <WEPopover/WEPopoverAppDelegate.h>
+#import <WEPopover/WEPopoverViewController.h>
 
 @implementation WEPopoverAppDelegate
 
