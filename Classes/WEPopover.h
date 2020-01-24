@@ -22,3 +22,14 @@ FOUNDATION_EXPORT const unsigned char WEPopoverVersionString[];
 #import <WEPopover/WEPopoverContentViewController.h>
 #import <WEPopover/WEPopoverTableViewController.h>
 #import <WEPopover/WEPopoverViewController.h>
+
+#import <WEPopover/NSCondition+WEPopover.h>
+#import <WEPopover/UIBarButtonItem+WEPopover.h>
+#import <WEPopover/UIView+WEPopover.h>
+#import <WEPopover/WEBlockingGestureRecognizer.h>
+#import <WEPopover/WEPopoverContainerView.h>
+#import <WEPopover/WEPopoverContainerViewProperties.h>
+#import <WEPopover/WEPopoverController.h>
+#import <WEPopover/WEPopoverParentView.h>
+#import <WEPopover/WETouchableView.h>
+#import <WEPopover/WEWeakReference.h>
